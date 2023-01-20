@@ -6,3 +6,4 @@ transformers==4.15.0
 pycocotools==2.0.4
 keras==2.7.0rc2
 netron
+seaborn --no-deps
